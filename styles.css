@@ -28,7 +28,7 @@ body {
 .site-header {
   background: linear-gradient(180deg, #ffffff 0%, #eef4fc 100%);
   border-bottom: 1px solid var(--border);
-  padding: 2.5rem 0 2rem;
+  padding: 3.5rem 0 2rem;
 }
 
 .eyebrow {
@@ -126,4 +126,10 @@ h2 {
 .btn-primary:focus-visible {
   background: #153d72;
   border-color: #153d72;
+}
+
+.btn-disabled {
+  opacity: 0.6;
+  pointer-events: none;
+  cursor: not-allowed;
 }

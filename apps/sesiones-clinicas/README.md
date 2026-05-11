@@ -1,13 +1,12 @@
 # Sesiones Clínicas
 
-- **Nombre de la herramienta:** Sesiones Clínicas
+- **Nombre:** Sesiones Clínicas
 - **Objetivo:** Herramienta para la planificación, seguimiento y gestión del calendario de sesiones clínicas del Servicio de Farmacia.
-- **Estado actual:** Pendiente de clasificar.
-- **Tipo de tecnología:** Pendiente.
-- **URL de acceso:** Pendiente (sustituir por URL oficial).
-- **URL del código o repositorio original:** Pendiente.
-- **Responsable funcional:** Pendiente.
-- **Responsable técnico:** Pendiente.
-- **Última revisión:** 2026-05-11.
-- **Observaciones:** Completar datos de gobierno funcional y técnico.
-- **Cambios pendientes:** Definir enlaces reales y clasificación de estado/tipo.
+- **Estado actual:** Producción
+- **Tipo de tecnología:** Google Apps Script
+- **URL de acceso:** https://script.google.com/macros/s/AKfycbwfbzlH2QlmWcWn4I6Couq9oglHk4sl57-t3tlR-RwUSUHKSBZjwb_hJAAEnMKGzthm/exec
+- **URL del código o repositorio original:** Pendiente de documentar
+- **Responsable funcional:** Pendiente de documentar
+- **Responsable técnico:** Pendiente de documentar
+- **Última revisión:** Pendiente de documentar
+- **Observaciones:** Herramienta independiente enlazada desde el portal central.
