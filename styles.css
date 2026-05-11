@@ -28,7 +28,7 @@ body {
 .site-header {
   background: linear-gradient(180deg, #ffffff 0%, #eef4fc 100%);
   border-bottom: 1px solid var(--border);
-  padding: 3.5rem 0 2rem;
+  padding: calc(3.5rem + env(safe-area-inset-top, 0px)) 0 2rem;
 }
 
 .eyebrow {
