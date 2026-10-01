@@ -2,15 +2,16 @@
 
 Portal central de acceso, documentación y mantenimiento de herramientas digitales del Servicio de Farmacia Hospitalaria.
 
-## Alcance de esta primera fase
+## Catálogo · Octubre 2026
 
-Este repositorio **solo** incluye referencias para:
+1. Hub de Estratificación CMO
+2. RxPlain
+3. EvidenceGap Radar
+4. PIDEFAR
+5. Guardias Farmacia
+6. Sesiones Clínicas
 
-1. PIDEFAR
-2. Guardias Farmacia
-3. Sesiones Clínicas
-
-No se incorporan en esta fase otras aplicaciones.
+Diseño actualizado con degradado fucsia, morado y azul marino, tarjetas adaptables y navegación por áreas. La fecha de actualización del portal no modifica las fechas de las herramientas enlazadas.
 
 ## Qué es este repositorio
 
@@ -44,7 +45,7 @@ Este repositorio es un **hub web estático** para:
 
 ## Cómo actualizar enlaces
 
-En `index.html`, cada tarjeta contiene enlaces con `href="#"` y comentarios HTML indicando el punto de sustitución. Reemplazar únicamente `#` por la URL oficial cuando esté validada.
+En `index.html`, actualizar el `href` de la tarjeta correspondiente y la URL de su ficha en `apps/`. Comprobar que el destino es correcto.
 
 ## Publicación con GitHub Pages
 
