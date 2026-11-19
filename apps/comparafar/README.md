@@ -5,5 +5,6 @@
 - **URL de acceso:** https://ramonmorillo.es/comparafar/
 - **Código:** https://github.com/ramonmorillo/comparafar
 - **Incorporación al portal:** Noviembre 2026
-- **Estado:** Prototipo. Datos de pacientes ficticios; pautas y precios pendientes de validación. Las comparaciones son económicas y no implican superioridad terapéutica ni recomendación clínica.
+- **Estado:** Producción
+- **Nota:** Las comparaciones son económicas y no implican superioridad terapéutica ni recomendación clínica.
 - **Observaciones:** Aplicación independiente enlazada desde el portal central.
