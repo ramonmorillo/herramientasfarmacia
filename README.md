@@ -2,7 +2,7 @@
 
 Portal central de acceso, documentación y mantenimiento de herramientas digitales del Servicio de Farmacia Hospitalaria.
 
-## Catálogo · Octubre 2026
+## Catálogo · Noviembre 2026
 
 1. Hub de Estratificación CMO
 2. RxPlain
@@ -10,6 +10,7 @@ Portal central de acceso, documentación y mantenimiento de herramientas digital
 4. PIDEFAR
 5. Guardias Farmacia
 6. Sesiones Clínicas
+7. Comparafar (Gestión económica)
 
 Diseño actualizado con degradado fucsia, morado y azul marino, tarjetas adaptables y navegación por áreas. La fecha de actualización del portal no modifica las fechas de las herramientas enlazadas.
 
